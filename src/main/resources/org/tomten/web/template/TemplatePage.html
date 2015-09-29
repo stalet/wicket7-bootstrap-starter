@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:wicket="http://wicket.apache.org">
+<head>
+    <meta charset="UTF-8"/>
+    <title wicket:id="title"></title>
+    <link rel="stylesheet" type="text/css" href="/css/style.css"/>
+    <wicket:header-items/>
+</head>
+<body role="document">
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <img src="/img/apache-wicket.png" width="150px" alt="Wicket" style="margin-top:16px"/>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li><a href="/"><i class="glyphicon glyphicon-home glyphicon"></i> Home</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container theme-showcase" style="margin-top: 80px">
+    <wicket:child/>
+</div>
+
+</body>
+</html>
