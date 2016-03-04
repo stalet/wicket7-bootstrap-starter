@@ -1,6 +1,7 @@
 
 # Spring boot wicket7 bootstrap starter application
 
+[![Build Status](https://travis-ci.org/stalet/wicket7-bootstrap-starter.svg?branch=master)](https://travis-ci.org/stalet/wicket7-bootstrap-starter)
 
 To start run:
 
