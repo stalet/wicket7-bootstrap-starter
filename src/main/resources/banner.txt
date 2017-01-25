@@ -1,5 +1,5 @@
  ___________________________
-< Wicket7 Bootstrap Starter >
+< Wicket8 Bootstrap Starter >
  ---------------------------
         \   ^__^
          \  (oo)\_______
